@@ -1,3 +1,15 @@
+#!/usr/bin/python
+
+"""
+Khyber Sen
+SoftDev1 pd7
+HW10 -- No Treble
+2017-10-15
+"""
+
+__author__ = 'Khyber Sen'
+__date__ = '2017-10-15'
+
 import os
 
 from csv2db import Database
